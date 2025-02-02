@@ -7,3 +7,5 @@ The analysis aims to optimize prediction models for PM2.5 concentrations, utiliz
 Key findings reveal that while LSTM models can capture temporal patterns, further optimization and exploration of additional features and model complexities (such as Bidirectional LSTMs or attention mechanisms) are needed for improved prediction performance.
 
 # Here you can find my all Report
+
+https://docs.google.com/document/d/19XpYtz_9uzfHe93HvzkQe6mNrfZPqWcu4EOlcdQlLUU/edit?usp=sharing
